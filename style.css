@@ -1,0 +1,49 @@
+body {
+  background-color: hsl(204, 43%, 93%);
+  font-family: Karla, sans-serif;
+}
+
+.card {
+  width: 80%;
+}
+
+@media (min-width: 1100px) {
+  .card {
+    max-width: 500px;
+  }
+}
+
+.title {
+  color: #2ab2af;
+}
+
+.subtit {
+  color: #c0df34;
+}
+
+.desc {
+  color: #98a6bd;
+}
+
+.right {
+  background: #4abebd;
+}
+
+.left {
+  background: #2bb3b1;
+}
+
+.per-mon {
+  color: hsl(204, 43%, 93%);
+}
+
+.full-access {
+  font-size: 0.8rem;
+}
+.btn {
+  background-color: #c0df34;
+}
+
+li {
+  color: hsl(204, 43%, 93%);
+}
